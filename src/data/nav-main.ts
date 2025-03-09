@@ -6,11 +6,10 @@ const data = {
       title: "Data Siswa",
       url: "#",
       icon: Database,
-      isActive: true,
       items: [
         {
           title: "Tambah Data",
-          url: "#",
+          url: "siswa",
         },
       ],
     },
