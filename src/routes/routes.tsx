@@ -1,7 +1,7 @@
 import MainLayout from "@/layouts/main-layout";
 import HomePage from "@/pages/HomePage";
 import NotFound from "@/pages/NotFound";
-import { Index } from "@/pages/siswa";
+import { Index } from "@/pages/siswa/Index";
 import { createBrowserRouter } from "react-router-dom";
 
 const router = createBrowserRouter([
